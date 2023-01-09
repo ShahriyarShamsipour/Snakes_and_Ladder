@@ -1,4 +1,4 @@
-# Snakes_and_Ladder
+# Snakes_and_Ladders
 
 **Game preparation:**
 Before starting the game, each player roll the dice. The player who gets 6 first starts the game.
